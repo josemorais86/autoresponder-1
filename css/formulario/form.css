@@ -1,0 +1,125 @@
+.lbl_campo{
+font-family: Arial !important;
+font-size: 12px !important;
+color: #555555 !important;
+font-weight: bold !important;
+font-style: normal !important;
+text-decoration: none !important;
+padding-top: 3px !important;
+padding-bottom: 3px !important;
+padding-left: 0 !important;
+padding-right: 3px !important;
+display: block !important;
+}
+.input_campo{
+font-family: Arial !important;
+font-size: 14px !important;
+color: #555555 !important;
+font-weight: normal !important;
+font-style: normal !important;
+text-decoration: none !important;
+background-color: #FFFFFF !important;
+border-width: 1px !important;
+border-color: #D9D9D9 !important;
+border-style: solid !important;
+width: 100% !important;
+-webkit-border-top-left-radius: 8px !important;
+-moz-border-radius-topleft: 8px !important;
+border-top-left-radius: 8px !important;
+-webkit-border-top-right-radius: 8px !important;
+-moz-border-radius-topright: 8px !important;
+border-top-right-radius: 8px !important;
+-webkit-border-bottom-left-radius: 8px !important;
+-moz-border-radius-bottomleft: 8px !important;
+border-bottom-left-radius: 8px !important;
+-webkit-border-bottom-right-radius: 8px !important;
+-moz-border-radius-bottomright: 8px !important;
+border-bottom-right-radius: 8px !important;
+}
+.r_button{
+	display: inline !important;
+	width: 139px !important;
+	font-family: Arial !important;
+	font-size: 22px !important;
+	color: #FFFFFF !important;
+	font-weight: bold !important;
+	font-style: normal !important;
+	text-decoration: none !important;
+	background-color: #0DBAFF !important;
+	background-image: url(https://app.getresponse.com/images/core/webforms/gradient_top.png) !important;
+	border-width: 0px !important;
+	border-color: #000000 !important;
+	border-style: none !important;
+	padding-left: 16px !important;
+	padding-right: 16px !important;
+	padding-top: 8px !important;
+	padding-bottom: 8px !important;
+	-webkit-border-top-left-radius: 8px !important;
+	-moz-border-radius-topleft: 8px !important;
+	border-top-left-radius: 8px !important;
+	-webkit-border-top-right-radius: 8px !important;
+	-moz-border-radius-topright: 8px !important;
+	border-top-right-radius: 8px !important;
+	-webkit-border-bottom-left-radius: 8px !important;
+	-moz-border-radius-bottomleft: 8px !important;
+	border-bottom-left-radius: 8px !important;
+	-webkit-border-bottom-right-radius: 8px !important;
+	-moz-border-radius-bottomright: 8px !important;
+	border-bottom-right-radius: 8px !important;
+}
+
+.r_container{
+	position: relative;
+	width: 230px !important;
+	background-color: #F0F0F0 !important;
+	background-image: none !important;
+	background-position: left top !important;
+	background-repeat: no-repeat !important;
+	border-color: #92757d !important;
+	border-width: 0px !important;
+	border-style: none !important;
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+	padding-top: 0 !important;
+	padding-bottom: 0 !important;
+	-webkit-border-top-left-radius: 0px !important;
+	-moz-border-radius-topleft: 0px !important;
+	border-top-left-radius: 0px !important;
+	-webkit-border-top-right-radius: 0px !important;
+	-moz-border-radius-topright: 0px !important;
+	border-top-right-radius: 0px !important;
+	-webkit-border-bottom-left-radius: 0px !important;
+	-moz-border-radius-bottomleft: 0px !important;
+	border-bottom-left-radius: 0px !important;
+	-webkit-border-bottom-right-radius: 0px !important;
+	-moz-border-radius-bottomright: 0px !important;
+	border-bottom-right-radius: 0px !important;
+}
+.r_footer{
+	position: absolute;
+	width: 230px;
+}
+
+.privacidad{
+	font-family: Arial !important;
+	font-size: 12px !important;
+	color: #B8B8B8 !important;
+	font-weight: normal !important;
+	font-style: italic !important;
+	text-decoration: none !important;
+	text-align: center !important;
+	height: 19px !important; 
+	display: inline !important;
+	background: url(https://app.getresponse.com/images/core/webforms/lock.png) no-repeat left center !important;
+	padding: 4px 0 0 20px !important;
+}
+
+.bywasanga{
+	font-family: Arial !important;
+	font-size: 10px !important;
+	color: #B8B8B8 !important;
+	font-weight: normal !important;
+	font-style: italic !important;
+	text-decoration: none !important;
+	text-align: center !important;
+}

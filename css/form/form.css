@@ -1,0 +1,88 @@
+#sortable1, #sortable2 { list-style-type: none; margin: 0; padding: 0 0 2.5em;  margin-right: 10px; margin-top: 15px; }
+  #sortable1 li, #sortable2 li { margin: 0 5px 5px 5px; padding: 5px; font-size: 1.2em; width: 120px; }
+  #sortable1 p, #sortable2 p {font-size: 11px; font-weight: bold; font-family: arial; text-align: left; margin-left: 4;}
+  .contenedor{
+    /*width: 700px;*/
+    /*min-height: 400px;*/
+    padding: 20px;
+    /*position: absolute;*/
+    text-align: center;
+  }
+  .formulario{
+    /*border:1px solid gray; */
+    padding: 26px;  
+    width: 226px; 
+    float: left; 
+    min-height: 285px; 
+    position:relative; 
+    margin-left:20px;
+    background-color: #F0F0F0 !important;
+  }
+  .text_formulario{
+    width: 100%;position: absolute; height: 50px; top: 0px; left: 0px; text-align: center; line-height: 49px; font-size: 30px;
+  }
+  .campos, .formulario{
+    padding: 26px;
+    width: 226px;
+    float: left;
+    min-height: 258px;
+    position: relative;
+    margin-left: 45px;
+    border: 1px solid silver;
+    border-radius: 10px;
+    box-shadow: inset 1px 1px 7px silver;
+  }
+  .text_campos{
+    width: 100%;
+    position: absolute; 
+    height: 50px; 
+    top: 0px; 
+    left: 0px; 
+    text-align: center; 
+    line-height: 49px; 
+    font-size: 30px;
+  }
+
+  .campos .ui-sort, .formulario .ui-sort{
+    width: 225px !important;
+    margin-bottom: -37px !important;
+    position: relative;
+    height: 80px;
+    cursor: move;
+    background: transparent;
+    border: none;
+  }
+
+
+  .campos .ui-sort .p-label .formulario{
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 5px;
+    margin-left: 4px;
+    width: 125px;
+  }
+
+.campos .ui-sort .input-drag .formulario{
+  z-index: -1;
+  top: 30px;
+  left: 5px;
+  position: absolute;
+  width:111px !important;
+  height: 12px !important;
+  float:left;
+  margin-top: -10px !important;
+  margin-left: 4px;
+  width: 125px;
+}
+.input-r{
+width:149px !important;
+height: 20px !important;
+float:left !important;
+margin-top: -10px !important;
+}
+.label-r{
+  width: 125px;
+}
+
+
